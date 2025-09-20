@@ -22,9 +22,3 @@
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind,styledcomponents,bootstrap,nodejs,graphql,postgres,mysql,mongodb,aws,vercel,git,github,figma,vscode,supabase,postman" width="100%"/>
 </a>
 ...and always learning more
-
-<h1/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=100&section=footer" alt="saririvai" />
-</div>
